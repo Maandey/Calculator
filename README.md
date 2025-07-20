@@ -1,1 +1,1 @@
-# Calculator
+This is a basic calculator project built using HTML, CSS, and JavaScript. It performs both simple and slightly advanced arithmetic operations and is designed to help understand the fundamentals of front-end web development
